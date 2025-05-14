@@ -1,0 +1,23 @@
+{
+  "pages": [{
+      "path": "pages/zhuye/in",
+      "style": {}
+    },
+    {
+      "path": "pages/index/index",
+      "navigationBarTitleText": "你好"
+    },
+    {
+      "path": "pages/index/liyan",
+      "style": {}
+    }
+  ],
+  "globalStyle": {
+    "backgroundColor": "#eee",
+    "backgroundTextStyle": "light",
+    "backgroundColorTop": "#8BA3C7",
+    "navigationBarBackgroundColor": "#8BA3C7",
+    "navigationBarTitleText": "你好",
+    "navigationBarTextStyle": "white"
+  }
+}
